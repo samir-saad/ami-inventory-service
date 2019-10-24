@@ -1,0 +1,1 @@
+ami-inventory-service
